@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+    padding: 0.5rem;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
